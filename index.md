@@ -7,3 +7,5 @@ Example
 
  - Original date - {{ date }}
  - With timeago filter - {{ date | timeago }}
+
+(Resistor codes)[https://zalophusdokdo.github.io/ConversionCalculators/images/resistor-color-chart0c0a.png]
