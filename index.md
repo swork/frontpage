@@ -5,6 +5,12 @@
 
 ## Recents:
 
+### Samsung Chromebook Pro to Linux, one-way trip
+
+This machine was $inexpensive back in 2018? Or so? when I bought it to support Shauna's campaign. It saw good use then, and little since. I was excited about Linux in Chromebook but it kept getting teased for this machine while most others with similar hardware got supported. They finally turned this on (dev channel only I think) just before EOL of OS updates in 2023. Not a terrific showing.
+
+ChromeOS is a lot of nothing for me, and this machine isn't useful in that configuration (to me). Nobody needs it; they sell for around $100 used, and this one is too good to let go like that. So, let's take a [one-way trip to Linux](https://swork.github.io/samsung-chromebook-pro/).
+
 ### Motorcycle auxiliary equipment switching
 
 KLR650 is a pretty basic moto. A recent trip left me wanting some electrical
