@@ -5,6 +5,10 @@
 
 ## Recents:
 
+### Home cooked router
+
+[OrangePi SBC behind Whidbey Telecom and/or Starlink.](https://swork.github.io/home-cooked-router/)
+
 ### Samsung Chromebook Pro to Linux, one-way trip
 
 This machine was $inexpensive back in 2018? Or so? when I bought it to support Shauna's campaign. It saw good use then, and little since. I was excited about Linux in Chromebook but it kept getting teased for this machine while most others with similar hardware got supported. They finally turned this on (dev channel only I think) just before EOL of OS updates in 2023. Not a terrific showing.
