@@ -1,1 +1,11 @@
 title: Steve Work
+email: steve@work.renlabs.com
+description: "Landing Pad"
+baseurl: "frontpage"
+url: "https://swork.github.io"
+github_username:  swork
+
+# Build settings
+theme: minima
+plugins:
+  - jekyll-feed
