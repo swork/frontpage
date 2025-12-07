@@ -1,7 +1,12 @@
 ---
+title: Front (Lobe) Matter
 ---
-{% assign date = '1963-10-02T20:05:00Z' %}
-{{ date | timeago }}
+<!-- {% assign date = '1963-10-02T20:05:00Z' %}
+ {{ date | timeago }} -->
+
+I have so much to say. It's all so interesting. To me.
+
+If only I had a place to say it.
 
 ## Recents:
 
