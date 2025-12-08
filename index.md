@@ -1,5 +1,6 @@
 ---
 title: Front (Lobe) Matter
+layout: home
 ---
 <!-- {% assign date = '1963-10-02T20:05:00Z' %}
  {{ date | timeago }} -->
@@ -23,12 +24,8 @@ ChromeOS is a lot of nothing for me, and this machine isn't useful in that confi
 ### Motorcycle auxiliary equipment switching
 
 KLR650 is a pretty basic moto. A recent trip left me wanting some electrical
-accessories, which implied a way to turn them on and off. An art project was
-born.
-
-Here's the [simulator](https://swork.github.io/mcaux-ct/). Click a button to
-close the switch ("press the button down"), click it again to open the switch
-("release the button"). Long-press and multi-press are things.
+accessories, which implied a way to turn them on and off. [An art project was
+born](/mcaux-ct).
 
 ## Reference:
 
